@@ -16,20 +16,21 @@
   <a href="https://github.com/Mariem-Zaiane?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
+## 🛠 Languages and Tools  
+<details>  
+  <summary>Click to expand</summary>  
 
-[🔗 **Click here for all my repositories**](#)
+  <p align="left">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>  
+  </p>  
 
-## 🛠 Languages and Tools
-<details>
-  <summary>Click to expand</summary>
-
-  - **Languages:** Dart, C++, C, Assembly
-  - **Tools:** DOSBox, Flutter, GitHub
-
-## 📬 Contact Me:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpDrwXhQKcZSMPtcQrWJRJfWfBQHJwCPKwkhhJWpckRTBsBDrMpMjGbzPDsjCQFzTDBfdK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariem-zaiane-2b2165225/)
-
+</details>  
 
 <!--
 **Mariem-Zaiane/Mariem-Zaiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
