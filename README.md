@@ -2,6 +2,50 @@
 
 
 
+## 📘 School Projects I Worked On
+
+### 🚀 2023-2024-project-5-flutter-team
+**Revolutionizing the recruitment process with our innovative application, emphasizing the importance of soft skills.**  
+🔹 **Language:** Dart  
+⭐ **Stars:** 3  
+
+---
+
+### 🏆 2023-2024-project-4-sportshield
+_No description provided_  
+🔹 **Language:** C++  
+⭐ **Stars:** 9  
+
+---
+
+### 💻 2023-2024-project-3-virtual-process
+_No description provided_  
+🔹 **Language:** C  
+⭐ **Stars:** 6  
+
+---
+
+### 🕹 2023-2024-project-2-x86-retrogame
+**Second project of 2023-2024 year which aims at recreating a faithful Pac-Man clone in assembly x86 using DOSBox.**  
+🔹 **Language:** Assembly  
+⭐ **Stars:** 10  
+
+---
+
+[🔗 **Click here for all my repositories**](#)
+
+## 🛠 Languages and Tools
+<details>
+  <summary>Click to expand</summary>
+
+  - **Languages:** Dart, C++, C, Assembly
+  - **Tools:** DOSBox, Flutter, GitHub
+
+</details>
+
+## 📬 Contact Me:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 <details open>
   <summary><h2>📘 School projects I worked on</h2></summary>
