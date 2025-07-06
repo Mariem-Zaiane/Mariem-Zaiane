@@ -8,6 +8,8 @@
   <summary><h2>📘 School projects I worked on</h2></summary>
 
   <p align="left">
+    <a href="https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-8"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-5-bubble-intermarche-team-8&theme=radical&hide_border=false&show_icons=true" alt="2024-2025-project-5-bubble-intermarche-team-8"></a>
+    <a href="2024-2025-project-4-web-fpga-team-8"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-4-web-fpga-team-8&theme=radical&hide_border=false&show_icons=true" alt="2024-2025-project-4-web-fpga-team-8"></a>
     <a href="https://github.com/algosup/2024-2025-project-3-quickest-path-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-3-quickest-path-team-6&theme=radical&hide_border=false&show_icons=true" alt="2024-2025-project-3-quickest-path-team-6"></a>
     <a href="https://github.com/algosup/2024-2025-project-2-serious-game-team-4"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-2-serious-game-team-4&theme=radical&hide_border=false&show_icons=true" alt="2024-2025-project-2-serious-game-team-4"></a>
     <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-3&theme=radical&hide_border=false&show_icons=true" alt="2024-2025-project-1-fpga-team-3"></a>
